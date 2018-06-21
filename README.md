@@ -1,2 +1,2 @@
 # uake.me
-Source for [uake.me](http://ukeme.com)
+Source for [uake.me](http://uake.me)
